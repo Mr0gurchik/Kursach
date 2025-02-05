@@ -1,0 +1,10 @@
+D:\projects с++\TestoviyVariant\TestoviyVariant\bin\Debug\TestoviyVariant.exe.config
+D:\projects с++\TestoviyVariant\TestoviyVariant\bin\Debug\TestoviyVariant.exe
+D:\projects с++\TestoviyVariant\TestoviyVariant\bin\Debug\TestoviyVariant.pdb
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.csproj.AssemblyReference.cache
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.Form1.resources
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.Properties.Resources.resources
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.csproj.GenerateResource.cache
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.csproj.CoreCompileInputs.cache
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.exe
+D:\projects с++\TestoviyVariant\TestoviyVariant\obj\Debug\TestoviyVariant.pdb
